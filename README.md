@@ -1,4 +1,6 @@
-# gs-layout
+# rilakkuma-wall
+
+![rilakkuma-wall](https://upload.cc/i1/2020/01/16/p9PaA6.png)
 
 ## Project setup
 ```
