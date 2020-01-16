@@ -2,6 +2,10 @@
 
 ![rilakkuma-wall](https://upload.cc/i1/2020/01/16/p9PaA6.png)
 
+## Reference
+
+- [wallpaperaccess.com](https://wallpaperaccess.com/rilakkuma)
+
 ## Project setup
 ```
 npm install
